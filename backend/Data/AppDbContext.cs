@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using EditSearch.Backend.Models;
+using EditSearch.Backend.Entities;
 
 namespace EditSearch.Backend.Data;
 

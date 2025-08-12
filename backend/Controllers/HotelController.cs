@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using EditSearch.Backend.Models;
+using EditSearch.Backend.Entities;
 
 namespace EditSearch.Backend.Controllers;
 

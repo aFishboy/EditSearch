@@ -1,5 +1,5 @@
 using EditSearch.Backend.Data;    // For AppDbContext
-using EditSearch.Backend.Models;  // For Hotel model
+using EditSearch.Backend.Entities;  // For Hotel model
 using Microsoft.EntityFrameworkCore; // For EF Core async extensions
 using System.Collections.Generic; // For IEnumerable<>
 using System.Threading.Tasks;     // For Task<>

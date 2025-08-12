@@ -142,6 +142,7 @@ C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\EditSearch.Backend.Assem
 C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\EditSearch.Backend.csproj.CoreCompileInputs.cache
 C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\EditSearch.Backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\EditSearch.Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\EditSearch.Backend.sourcelink.json
 C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\scopedcss\bundle\EditSearch.Backend.styles.css
 C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Sam\Coding\EditSearch\backend\obj\Debug\net9.0\staticwebassets.development.json

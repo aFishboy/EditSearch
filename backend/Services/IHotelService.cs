@@ -1,4 +1,4 @@
-using EditSearch.Backend.Models;
+using EditSearch.Backend.Entities;
 
 public interface IHotelService
 {
