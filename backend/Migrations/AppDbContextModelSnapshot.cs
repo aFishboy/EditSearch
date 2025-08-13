@@ -26,14 +26,36 @@ namespace EditSearch.Backend.Migrations
                     b.Property<string>("City")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Country")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("CountryCode")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("County")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("FormattedAddress")
+                        .HasColumnType("TEXT");
+
+                    b.Property<double?>("Latitude")
+                        .HasColumnType("REAL");
+
+                    b.Property<double?>("Longitude")
+                        .HasColumnType("REAL");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("State")
+                    b.Property<string>("ParsedName")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("ZipCode")
+                    b.Property<string>("Postcode")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("State")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
@@ -63,7 +85,7 @@ namespace EditSearch.Backend.Migrations
 
                     b.HasIndex("HotelId");
 
-                    b.ToTable("HotelPrice");
+                    b.ToTable("HotelPrices");
                 });
 
             modelBuilder.Entity("EditSearch.Backend.Entities.HotelPrice", b =>

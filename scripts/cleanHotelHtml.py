@@ -63,7 +63,7 @@ for hotel_string in split_list:
 
 
 # 6. PRINT THE RESULT TO VERIFY
-search_terms = ["Kyoto"]#["JP", "Japan", "Tokyo", "Kyoto", "Osaka", "CA", "California", "HI", "Waikiki", "Honolulu"]
+search_terms = ["Waikiki"]#["JP", "Japan", "Tokyo", "Kyoto", "Osaka", "CA", "California", "HI", "Waikiki", "Honolulu"]
 matching_hotels = [h for h in cleaned_hotels if any(term in h for term in search_terms)]
 
 for hotel in matching_hotels:
@@ -111,12 +111,14 @@ for hotel_info_string in matching_hotels:
         
         print(f"  - Geocoding query: {search_text}") # Good for debugging
         
-        # geo_response = requests.get(geo_url)
-        # geo_data = geo_response.json()
-        
-        # if geo_data['features']:
-        #     lon, lat = geo_data['features'][0]['geometry']['coordinates']
-        #     print(f"  - Geocoded Coordinates: {lat}, {lon}")
+        geo_response = requests.get(geo_url)
+        geo_data = geo_response.json()
+
+        print(f"geo_data {geo_data}")
+
+        if geo_data['features']:
+            lon, lat = geo_data['features'][0]['geometry']['coordinates']
+            print(f"  - Geocoded Coordinates: {lat}, {lon}")
 
     except Exception as e:
         print(f"  - Geocoding failed: {e}")

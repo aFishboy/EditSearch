@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EditSearch.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a722cef16f5e8a699b9ec6b662200954c0bba703")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2742162b0b0a49555ba6f5427425b981448fa15d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EditSearch.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EditSearch.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
