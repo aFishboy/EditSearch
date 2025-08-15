@@ -148,6 +148,14 @@
               "target": "Package",
               "version": "[9.0.8, )"
             },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[4.35.0, )"
@@ -159,10 +167,6 @@
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
               "version": "[139.0.7258.6800, )"
-            },
-            "dotenv.net": {
-              "target": "Package",
-              "version": "[4.0.0, )"
             }
           },
           "imports": [

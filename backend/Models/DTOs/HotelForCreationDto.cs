@@ -5,6 +5,7 @@ namespace EditSearch.Backend.Models.DTOs
         // From initial parsing
         public string ParsedName { get; set; } = string.Empty;
         public string Name { get; set; } = string.Empty;
+        public string PlaceID { get; set; } = string.Empty;
 
         // From Geoapify API
         public string? City { get; set; }

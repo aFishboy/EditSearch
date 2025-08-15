@@ -11,6 +11,7 @@ namespace EditSearch.Backend.Entities
         [Required]
         public string Name { get; set; } = string.Empty;
         public string ParsedName { get; set; } = string.Empty;
+        public string PlaceID { get; set; } = string.Empty;
         public string? City { get; set; }
         public string? State { get; set; } // For US/Canada, etc.
         public string? County { get; set; } // e.g., Kyoto Prefecture

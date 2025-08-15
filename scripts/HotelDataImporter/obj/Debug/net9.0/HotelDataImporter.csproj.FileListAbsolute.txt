@@ -76,4 +76,10 @@ C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Swashb
 C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\EditSearch.Backend.dll
 C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\EditSearch.Backend.pdb
-C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\dotenv.net.dll
+C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Sam\Coding\EditSearch\scripts\HotelDataImporter\bin\Debug\net9.0\hotelListHtml.txt

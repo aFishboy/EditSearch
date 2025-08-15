@@ -52,6 +52,10 @@ namespace EditSearch.Backend.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("PlaceID")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Postcode")
                         .HasColumnType("TEXT");
 
