@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelDataImporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a588250ea37cdb29fd584ea0f6ed8af050d91735")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b98327ab9174a7c8ce6d260652e1527a949e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelDataImporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelDataImporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

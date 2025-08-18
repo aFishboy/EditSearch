@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {}
+    "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {
+    "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
+        "projectUniqueName": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
         "projectName": "EditSearch.Backend",
-        "projectPath": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
+        "projectPath": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\obj\\",
+        "outputPath": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -27,7 +27,7 @@ namespace HotelDataImporter.PriceScraper
             //    The driver will automatically be quit at the end of this block.
             using (IWebDriver driver = new ChromeDriver(options))
             {
-                var query = $"{hotelEntity.Name} {hotelEntity.City} price";
+                var query = $"{hotelEntity.Name} {hotelEntity.City} hotel price";
                 driver.Navigate().GoToUrl($"https://www.google.com/search?q={Uri.EscapeDataString(query)}");
 
                 // --- 1. The new, clean main logic ---

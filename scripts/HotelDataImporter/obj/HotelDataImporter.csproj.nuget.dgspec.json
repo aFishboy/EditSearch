@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj": {}
+    "c:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {
+    "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
+        "projectUniqueName": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
         "projectName": "EditSearch.Backend",
-        "projectPath": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
+        "projectPath": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\obj\\",
+        "outputPath": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj": {
+    "c:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj",
+        "projectUniqueName": "c:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj",
         "projectName": "HotelDataImporter",
-        "projectPath": "C:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj",
+        "projectPath": "c:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\obj\\",
+        "outputPath": "c:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,8 +118,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {
-                "projectPath": "C:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj"
+              "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj": {
+                "projectPath": "c:\\Users\\Sam\\Coding\\EditSearch\\backend\\EditSearch.Backend.csproj"
               }
             }
           }

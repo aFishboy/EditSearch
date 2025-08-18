@@ -21,7 +21,7 @@ namespace HotelDataImporter.ParseHotelList
             }
 
             // 5. SPLIT THE STRING INTO A LIST
-            var delimiter = "</li><li>";
+            var delimiter = "</li>";
             var splitList = longString.Split(delimiter);
 
             // 6. CLEAN UP EACH ITEM IN THE LIST
@@ -34,7 +34,7 @@ namespace HotelDataImporter.ParseHotelList
                 if (cleanItem.EndsWith("</li>"))
                     cleanItem = cleanItem.Substring(0, cleanItem.Length - 5);
 
-                var finalItem = cleanItem.Split(new[] { " - " }, 2, StringSplitOptions.None)[0].Trim();
+                var finalItem = cleanItem.Split(new[] { ") - " }, 2, StringSplitOptions.None)[0].Trim() + ")";
                 cleanedHotels.Add(finalItem);
             }
 

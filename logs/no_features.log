@@ -1,0 +1,471 @@
+---------Failed to find features. Hotel parsed name: Castle Hot Springs ------------
+Castle Hot Springs (Morristown, US, 85342)
+https://api.geoapify.com/v1/geocode/search?text=Castle%20Hot%20Springs&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Gild Hall, A Thompson Hotel ------------
+Gild Hall, A Thompson Hotel (New York, NY, US, 10038)
+https://api.geoapify.com/v1/geocode/search?text=Gild%20Hall%2C%20A%20Thompson%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Loews Regency New York Hotel ------------
+Loews Regency New York Hotel (New York, NY, US, 10065)
+https://api.geoapify.com/v1/geocode/search?text=Loews%20Regency%20New%20York%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Carlyle, A Rosewood Hotel ------------
+The Carlyle, A Rosewood Hotel (New York, NY, US, 10021)
+https://api.geoapify.com/v1/geocode/search?text=The%20Carlyle%2C%20A%20Rosewood%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Pierre, A Taj Hotel, New York ------------
+The Pierre, A Taj Hotel, New York (New York , NY, US, 10065)
+https://api.geoapify.com/v1/geocode/search?text=The%20Pierre%2C%20A%20Taj%20Hotel%2C%20New%20York&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Park Lane New York ------------
+Park Lane New York (New York, US, 10019)
+https://api.geoapify.com/v1/geocode/search?text=Park%20Lane%20New%20York&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Canyon Ranch Tucson ------------
+Canyon Ranch Tucson (Tucson, US, 85750)
+https://api.geoapify.com/v1/geocode/search?text=Canyon%20Ranch%20Tucson&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Hotel Silicon Valley at East Palo Alto ------------
+Four Seasons Hotel Silicon Valley at East Palo Alto (Palo Alto, CA, US, 94303)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Hotel%20Silicon%20Valley%20at%20East%20Palo%20Alto&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Claremont Club &amp; Spa, A Fairmont Hotel ------------
+Claremont Club &amp; Spa, A Fairmont Hotel (Berkeley, CA, US, 94705)
+https://api.geoapify.com/v1/geocode/search?text=Claremont%20Club%20%26amp%3B%20Spa%2C%20A%20Fairmont%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Kimpton La Peer Hotel ------------
+Kimpton La Peer Hotel (West Hollywood, CA, US, 90069)
+https://api.geoapify.com/v1/geocode/search?text=Kimpton%20La%20Peer%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Shore House at The Del ------------
+Shore House at The Del (Coronado, CA, US, 92118)
+https://api.geoapify.com/v1/geocode/search?text=Shore%20House%20at%20The%20Del&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Casa Palmero at Pebble Beach Resorts ------------
+Casa Palmero at Pebble Beach Resorts (Pebble Beach, CA, US, 93953)
+https://api.geoapify.com/v1/geocode/search?text=Casa%20Palmero%20at%20Pebble%20Beach%20Resorts&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Kimpton Rowan Palm Springs Hotel ------------
+Kimpton Rowan Palm Springs Hotel (Palm Springs, CA, US, 92262)
+https://api.geoapify.com/v1/geocode/search?text=Kimpton%20Rowan%20Palm%20Springs%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Pas√©a Hotel &amp; Spa ------------
+Pas√©a Hotel &amp; Spa (Huntington Beach, US, 92648)
+https://api.geoapify.com/v1/geocode/search?text=Pas%E2%88%9A%C2%A9a%20Hotel%20%26amp%3B%20Spa&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Thompson Houston ------------
+Thompson Houston (Houston, US, 77019)
+https://api.geoapify.com/v1/geocode/search?text=Thompson%20Houston&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Elounda Gulf Villas ------------
+Elounda Gulf Villas (Elounda, GR, 28410)
+https://api.geoapify.com/v1/geocode/search?text=Elounda%20Gulf%20Villas&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The St. Regis Residences Club, Aspen ------------
+The St. Regis Residences Club, Aspen (Aspen, CO, US, 81611)
+https://api.geoapify.com/v1/geocode/search?text=The%20St.%20Regis%20Residences%20Club%2C%20Aspen&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Riggs Washington DC ------------
+Riggs Washington DC (Washington, D.C., D.C., US, 20004)
+https://api.geoapify.com/v1/geocode/search?text=Riggs%20Washington%20DC&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: SLS Hotel South Beach ------------
+SLS Hotel South Beach (Miami Beach, FL, US, 33139)
+https://api.geoapify.com/v1/geocode/search?text=SLS%20Hotel%20South%20Beach&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: SLS Brickell Hotel &amp; Residences ------------
+SLS Brickell Hotel &amp; Residences (Miami, FL, US, 33130)
+https://api.geoapify.com/v1/geocode/search?text=SLS%20Brickell%20Hotel%20%26amp%3B%20Residences&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: J.K.Place Capri ------------
+J.K.Place Capri (Capri, IT, 80073)
+https://api.geoapify.com/v1/geocode/search?text=J.K.Place%20Capri&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: 1 Hotel Hanalei Bay ------------
+1 Hotel Hanalei Bay (Princeville, HI, US, 96722)
+https://api.geoapify.com/v1/geocode/search?text=1%20Hotel%20Hanalei%20Bay&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Resort Maui At Wailea ------------
+Four Seasons Resort Maui At Wailea (Wailea, HI, US, 96753)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Resort%20Maui%20At%20Wailea&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Sensei Lana'i, A Four Seasons Resort ------------
+Sensei Lana'i, A Four Seasons Resort (Lanai City, HI, US, 96763)
+https://api.geoapify.com/v1/geocode/search?text=Sensei%20Lana%27i%2C%20A%20Four%20Seasons%20Resort&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Royal Hawaiian, a Luxury Collection Resort, Waikiki ------------
+The Royal Hawaiian, a Luxury Collection Resort, Waikiki (Honolulu, HI, US, 96815)
+https://api.geoapify.com/v1/geocode/search?text=The%20Royal%20Hawaiian%2C%20a%20Luxury%20Collection%20Resort%2C%20Waikiki&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: OUTRIGGER Waikiki Beachcomber Hotel ------------
+OUTRIGGER Waikiki Beachcomber Hotel (Honolulu, HI, US, 96815)
+https://api.geoapify.com/v1/geocode/search?text=OUTRIGGER%20Waikiki%20Beachcomber%20Hotel&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Capital Hotel, Apartments &amp; Townhouse ------------
+The Capital Hotel, Apartments &amp; Townhouse (London, GB, SW3 1AT)
+https://api.geoapify.com/v1/geocode/search?text=The%20Capital%20Hotel%2C%20Apartments%20%26amp%3B%20Townhouse&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Cadogan, A Belmond Hotel, London ------------
+The Cadogan, A Belmond Hotel, London (London, GB, SW1X 9SE)
+https://api.geoapify.com/v1/geocode/search?text=The%20Cadogan%2C%20A%20Belmond%20Hotel%2C%20London&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Milestone Hotel &amp; Residences ------------
+The Milestone Hotel &amp; Residences (London, GB, W8 5DL)
+https://api.geoapify.com/v1/geocode/search?text=The%20Milestone%20Hotel%20%26amp%3B%20Residences&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Kimpton Fitzroy London ------------
+Kimpton Fitzroy London (London, GB, WC1B 5BE)
+https://api.geoapify.com/v1/geocode/search?text=Kimpton%20Fitzroy%20London&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Savoy, A Fairmont Managed Hotel ------------
+The Savoy, A Fairmont Managed Hotel (London, GB, WC2R 0EZ)
+https://api.geoapify.com/v1/geocode/search?text=The%20Savoy%2C%20A%20Fairmont%20Managed%20Hotel&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Treetops Lodge &amp; Estate ------------
+Treetops Lodge &amp; Estate (Rotorua, NZ,)
+https://api.geoapify.com/v1/geocode/search?text=Treetops%20Lodge%20%26amp%3B%20Estate&filter=countrycode:nz&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Delano Las Vegas ------------
+Delano Las Vegas (Las Vegas, NV, US, 89119)
+https://api.geoapify.com/v1/geocode/search?text=Delano%20Las%20Vegas&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Fairmont Austin ------------
+Fairmont Austin (Austin, TX, US, 78701)
+https://api.geoapify.com/v1/geocode/search?text=Fairmont%20Austin&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: La Cantera Resort &amp; Spa ------------
+La Cantera Resort &amp; Spa (San Antonio, TX, US, 78256)
+https://api.geoapify.com/v1/geocode/search?text=La%20Cantera%20Resort%20%26amp%3B%20Spa&filter=countrycode:us&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Hotel Montreal ------------
+Four Seasons Hotel Montreal (Montreal, QC, CA, H3G 1Z5)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Hotel%20Montreal&filter=countrycode:ca&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Sofitel Montreal Golden Mile ------------
+Sofitel Montreal Golden Mile (Montreal, QUEBEC, CA, H3A 2N3)
+https://api.geoapify.com/v1/geocode/search?text=Sofitel%20Montreal%20Golden%20Mile&filter=countrycode:ca&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Ocean Club, Bahamas - A Four Seasons Resort ------------
+The Ocean Club, Bahamas - A Four Seasons Resort (Paradise Island, BS, N-477)
+https://api.geoapify.com/v1/geocode/search?text=The%20Ocean%20Club%2C%20Bahamas%20-%20A%20Four%20Seasons%20Resort&filter=countrycode:bs&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: One&amp;Only Palmilla ------------
+One&amp;Only Palmilla (San Jose Del Cabo, BCS, MX, Zip code: 23400)
+https://api.geoapify.com/v1/geocode/search?text=One%26amp%3BOnly%20Palmilla&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Casa de Sierra Nevada, A Belmond Hotel, San Miguel de Allende ------------
+Casa de Sierra Nevada, A Belmond Hotel, San Miguel de Allende (San Miguel de Allende, MX, 37700)
+https://api.geoapify.com/v1/geocode/search?text=Casa%20de%20Sierra%20Nevada%2C%20A%20Belmond%20Hotel%2C%20San%20Miguel%20de%20Allende&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Las Alcobas, a Luxury Collection Hotel, Mexico City ------------
+Las Alcobas, a Luxury Collection Hotel, Mexico City (Mexico City, MX, 11560)
+https://api.geoapify.com/v1/geocode/search?text=Las%20Alcobas%2C%20a%20Luxury%20Collection%20Hotel%2C%20Mexico%20City&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Naviva, A Four Seasons Resort, Punta Mita, Mexico ------------
+Naviva, A Four Seasons Resort, Punta Mita, Mexico (Bahia de Banderas, NAY, MX, 63734)
+https://api.geoapify.com/v1/geocode/search?text=Naviva%2C%20A%20Four%20Seasons%20Resort%2C%20Punta%20Mita%2C%20Mexico&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Susurros del Corazon, Auberge Resorts Collection ------------
+Susurros del Corazon, Auberge Resorts Collection (Punta de Mita, MX, 63734)
+https://api.geoapify.com/v1/geocode/search?text=Susurros%20del%20Corazon%2C%20Auberge%20Resorts%20Collection&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Chable Maroma ------------
+Chable Maroma (Riviera Maya, Q.ROO, MX, 77710)
+https://api.geoapify.com/v1/geocode/search?text=Chable%20Maroma&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Impression Moxche by Secrets ------------
+Impression Moxche by Secrets (Playa del Carmen, MX, 77714)
+https://api.geoapify.com/v1/geocode/search?text=Impression%20Moxche%20by%20Secrets&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: NIZUC Resort &amp; Spa ------------
+NIZUC Resort &amp; Spa (Canc√∫n, Q. ROO, MX, 77500)
+https://api.geoapify.com/v1/geocode/search?text=NIZUC%20Resort%20%26amp%3B%20Spa&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Maroma, A Belmond Hotel, Riviera Maya ------------
+Maroma, A Belmond Hotel, Riviera Maya (Playa del Carmen, Riviera Maya, MX, 77710)
+https://api.geoapify.com/v1/geocode/search?text=Maroma%2C%20A%20Belmond%20Hotel%2C%20Riviera%20Maya&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Itz‚Äôana Resort &amp; Residences ------------
+Itz‚Äôana Resort &amp; Residences (Placencia, BZ,)
+https://api.geoapify.com/v1/geocode/search?text=Itz%E2%80%9A%C3%84%C3%B4ana%20Resort%20%26amp%3B%20Residences&filter=countrycode:bz&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Chabl√© Yucat√°n ------------
+Chabl√© Yucat√°n (Merida, MX, 97816)
+https://api.geoapify.com/v1/geocode/search?text=Chabl%E2%88%9A%C2%A9%20Yucat%E2%88%9A%C2%B0n&filter=countrycode:mx&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hamilton Princess &amp; Beach Club, A Fairmont Managed Hotel ------------
+Hamilton Princess &amp; Beach Club, A Fairmont Managed Hotel (Hamilton, BM, HM08)
+https://api.geoapify.com/v1/geocode/search?text=Hamilton%20Princess%20%26amp%3B%20Beach%20Club%2C%20A%20Fairmont%20Managed%20Hotel&filter=countrycode:bm&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Cheval Blanc St-Barth ------------
+Cheval Blanc St-Barth (St. Barth, BL, 97133)
+https://api.geoapify.com/v1/geocode/search?text=Cheval%20Blanc%20St-Barth&filter=countrycode:bl&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Barriere Le Carl Gustaf ------------
+Hotel Barriere Le Carl Gustaf (Gustavia, BL, 97133)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Barriere%20Le%20Carl%20Gustaf&filter=countrycode:bl&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Le Barth√©lemy Hotel &amp; Spa ------------
+Le Barth√©lemy Hotel &amp; Spa (Saint Barth√©lemy, BL, 97133)
+https://api.geoapify.com/v1/geocode/search?text=Le%20Barth%E2%88%9A%C2%A9lemy%20Hotel%20%26amp%3B%20Spa&filter=countrycode:bl&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hermitage Hotel &amp; Spa ------------
+Hermitage Hotel &amp; Spa (Cervinia, IT, 11021)
+https://api.geoapify.com/v1/geocode/search?text=Hermitage%20Hotel%20%26amp%3B%20Spa&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Grand Hyatt Baha Mar ------------
+Grand Hyatt Baha Mar (Nassau, BS,)
+https://api.geoapify.com/v1/geocode/search?text=Grand%20Hyatt%20Baha%20Mar&filter=countrycode:bs&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: COMO Parrot Cay ------------
+COMO Parrot Cay (Parrot Cay, TURKS AND CAICOS ISLANDS, TC, TKCA 1ZZ)
+https://api.geoapify.com/v1/geocode/search?text=COMO%20Parrot%20Cay&filter=countrycode:tc&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Shore Club Turks and Caicos ------------
+The Shore Club Turks and Caicos (Providenciales, TC,)
+https://api.geoapify.com/v1/geocode/search?text=The%20Shore%20Club%20Turks%20and%20Caicos&filter=countrycode:tc&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Amanyara ------------
+Amanyara (Providenciales, TC, TKCA 1ZZ)
+https://api.geoapify.com/v1/geocode/search?text=Amanyara&filter=countrycode:tc&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Romazzino, A Belmond Hotel, Costa Smeralda ------------
+Romazzino, A Belmond Hotel, Costa Smeralda (Arzachena, IT, 07021)
+https://api.geoapify.com/v1/geocode/search?text=Romazzino%2C%20A%20Belmond%20Hotel%2C%20Costa%20Smeralda&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Nayara Tented Camp ------------
+Nayara Tented Camp (La Fortuna, CR, 21007)
+https://api.geoapify.com/v1/geocode/search?text=Nayara%20Tented%20Camp&filter=countrycode:cr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Awasi Iguazu - Relais &amp; Chateaux ------------
+Awasi Iguazu - Relais &amp; Chateaux (Puerto Iguazu, AR, N3370GOA)
+https://api.geoapify.com/v1/geocode/search?text=Awasi%20Iguazu%20-%20Relais%20%26amp%3B%20Chateaux&filter=countrycode:ar&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Copacabana Palace, A Belmond Hotel, Rio de Janeiro ------------
+Copacabana Palace, A Belmond Hotel, Rio de Janeiro (Rio De Janeiro, BR, 22021-001)
+https://api.geoapify.com/v1/geocode/search?text=Copacabana%20Palace%2C%20A%20Belmond%20Hotel%2C%20Rio%20de%20Janeiro&filter=countrycode:br&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Reids Palace, A Belmond Hotel, Madeira ------------
+Reids Palace, A Belmond Hotel, Madeira (Funchal, PT, 9000-098)
+https://api.geoapify.com/v1/geocode/search?text=Reids%20Palace%2C%20A%20Belmond%20Hotel%2C%20Madeira&filter=countrycode:pt&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Alfonso XIII, a Luxury Collection Hotel, Seville ------------
+Hotel Alfonso XIII, a Luxury Collection Hotel, Seville (Seville, ES, 41004)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Alfonso%20XIII%2C%20a%20Luxury%20Collection%20Hotel%2C%20Seville&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Amanera ------------
+Amanera (Rio San Juan, DO, CP 33300)
+https://api.geoapify.com/v1/geocode/search?text=Amanera&filter=countrycode:do&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Sofitel Baru Calablanca Beach Resort ------------
+Sofitel Baru Calablanca Beach Resort (Cartagena, CO, 130017)
+https://api.geoapify.com/v1/geocode/search?text=Sofitel%20Baru%20Calablanca%20Beach%20Resort&filter=countrycode:co&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Palacio del Inka, a Luxury Collection Hotel, Cusco ------------
+Palacio del Inka, a Luxury Collection Hotel, Cusco (Cusco, PE,)
+https://api.geoapify.com/v1/geocode/search?text=Palacio%20del%20Inka%2C%20a%20Luxury%20Collection%20Hotel%2C%20Cusco&filter=countrycode:pe&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Palacio Nazarenas, A Belmond Hotel, Cusco ------------
+Palacio Nazarenas, A Belmond Hotel, Cusco (Cusco, PE, 00000)
+https://api.geoapify.com/v1/geocode/search?text=Palacio%20Nazarenas%2C%20A%20Belmond%20Hotel%2C%20Cusco&filter=countrycode:pe&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Bristol, a Luxury Collection Hotel, Vienna ------------
+Hotel Bristol, a Luxury Collection Hotel, Vienna (Vienna, AT, 1010)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Bristol%2C%20a%20Luxury%20Collection%20Hotel%2C%20Vienna&filter=countrycode:at&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Imperial, a Luxury Collection Hotel, Vienna ------------
+Hotel Imperial, a Luxury Collection Hotel, Vienna (Vienna, AT, 1015)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Imperial%2C%20a%20Luxury%20Collection%20Hotel%2C%20Vienna&filter=countrycode:at&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Goldener Hirsch, a Luxury Collection Hotel ------------
+Hotel Goldener Hirsch, a Luxury Collection Hotel (Salzburg, AT, 5020)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Goldener%20Hirsch%2C%20a%20Luxury%20Collection%20Hotel&filter=countrycode:at&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Amigo, a Rocco Forte hotel ------------
+Hotel Amigo, a Rocco Forte hotel (Brussels, BE, 1000)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Amigo%2C%20a%20Rocco%20Forte%20hotel&filter=countrycode:be&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Ca' di Dio ------------
+Ca' di Dio (Venice, IT, 30122)
+https://api.geoapify.com/v1/geocode/search?text=Ca%27%20di%20Dio&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Cipriani, A Belmond Hotel, Venice ------------
+Hotel Cipriani, A Belmond Hotel, Venice (Venice, IT, 30133)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Cipriani%2C%20A%20Belmond%20Hotel%2C%20Venice&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Gritti Palace, a Luxury Collection Hotel, Venice ------------
+The Gritti Palace, a Luxury Collection Hotel, Venice (Venice, IT, 30124)
+https://api.geoapify.com/v1/geocode/search?text=The%20Gritti%20Palace%2C%20a%20Luxury%20Collection%20Hotel%2C%20Venice&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Augustine, a Luxury Collection Hotel, Prague ------------
+Augustine, a Luxury Collection Hotel, Prague (Prague, CZ, 118 00)
+https://api.geoapify.com/v1/geocode/search?text=Augustine%2C%20a%20Luxury%20Collection%20Hotel%2C%20Prague&filter=countrycode:cz&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Brown's Hotel, a Rocco Forte hotel ------------
+Brown's Hotel, a Rocco Forte hotel (London, GB, W1S 4BP)
+https://api.geoapify.com/v1/geocode/search?text=Brown%27s%20Hotel%2C%20a%20Rocco%20Forte%20hotel&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: 41 ------------
+41 (London, GB, SW1W 0PS)
+https://api.geoapify.com/v1/geocode/search?text=41&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Athenaeum Hotel &amp; Residences ------------
+Athenaeum Hotel &amp; Residences (London, GB, W1J 7BJ)
+https://api.geoapify.com/v1/geocode/search?text=Athenaeum%20Hotel%20%26amp%3B%20Residences&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The May Fair, A Radisson Collection Hotel ------------
+The May Fair, A Radisson Collection Hotel (London, GB, W1J 8LT)
+https://api.geoapify.com/v1/geocode/search?text=The%20May%20Fair%2C%20A%20Radisson%20Collection%20Hotel&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: J.K. Place Paris ------------
+J.K. Place Paris (Paris, NA, FR, 75007)
+https://api.geoapify.com/v1/geocode/search?text=J.K.%20Place%20Paris&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Sofitel Paris Baltimore Tour Eiffel ------------
+Sofitel Paris Baltimore Tour Eiffel (Paris, IDF, FR, 75116)
+https://api.geoapify.com/v1/geocode/search?text=Sofitel%20Paris%20Baltimore%20Tour%20Eiffel&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: H√¥tel de Crillon, A Rosewood Hotel ------------
+H√¥tel de Crillon, A Rosewood Hotel (Paris, FR, 75008)
+https://api.geoapify.com/v1/geocode/search?text=H%E2%88%9A%C2%A5tel%20de%20Crillon%2C%20A%20Rosewood%20Hotel&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Prince de Galles, a Luxury Collection Hotel ------------
+Prince de Galles, a Luxury Collection Hotel (Paris, FR, 75008)
+https://api.geoapify.com/v1/geocode/search?text=Prince%20de%20Galles%2C%20a%20Luxury%20Collection%20Hotel&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: H√¥tel du Louvre Paris, a Hyatt Hotel ------------
+H√¥tel du Louvre Paris, a Hyatt Hotel (Paris, FR, 75001)
+https://api.geoapify.com/v1/geocode/search?text=H%E2%88%9A%C2%A5tel%20du%20Louvre%20Paris%2C%20a%20Hyatt%20Hotel&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Airelles Saint Tropez Chateau de la Messardi√®re ------------
+Airelles Saint Tropez Chateau de la Messardi√®re (Saint-Tropez, FR, 83990)
+https://api.geoapify.com/v1/geocode/search?text=Airelles%20Saint%20Tropez%20Chateau%20de%20la%20Messardi%E2%88%9A%C2%AEre&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hyatt Regency Nice Palais De La Mediterranee ------------
+Hyatt Regency Nice Palais De La Mediterranee (Nice , FR, 06000)
+https://api.geoapify.com/v1/geocode/search?text=Hyatt%20Regency%20Nice%20Palais%20De%20La%20Mediterranee&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Anantara Plaza Nice Hotel ------------
+Anantara Plaza Nice Hotel (Nice, FR, 06000)
+https://api.geoapify.com/v1/geocode/search?text=Anantara%20Plaza%20Nice%20Hotel&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Ch√¢teau Saint-Martin &amp; Spa, Oetker Collection ------------
+Ch√¢teau Saint-Martin &amp; Spa, Oetker Collection (Vence , FR, 06142)
+https://api.geoapify.com/v1/geocode/search?text=Ch%E2%88%9A%C2%A2teau%20Saint-Martin%20%26amp%3B%20Spa%2C%20Oetker%20Collection&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: InterContinental Bordeaux - Le Grand Hotel ------------
+InterContinental Bordeaux - Le Grand Hotel (Bordeaux, FR, 33000)
+https://api.geoapify.com/v1/geocode/search?text=InterContinental%20Bordeaux%20-%20Le%20Grand%20Hotel&filter=countrycode:fr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Grand Hotel Les Trois Rois ------------
+Grand Hotel Les Trois Rois (Basel, CH, 4001)
+https://api.geoapify.com/v1/geocode/search?text=Grand%20Hotel%20Les%20Trois%20Rois&filter=countrycode:ch&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Astir Palace Hotel Athens ------------
+Four Seasons Astir Palace Hotel Athens (Athens, GR, 16671)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Astir%20Palace%20Hotel%20Athens&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: King George, a Luxury Collection Hotel, Athens ------------
+King George, a Luxury Collection Hotel, Athens (Athens, GR, 10564)
+https://api.geoapify.com/v1/geocode/search?text=King%20George%2C%20a%20Luxury%20Collection%20Hotel%2C%20Athens&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Dolli at Acropolis ------------
+The Dolli at Acropolis (Athens, GR, 105 56)
+https://api.geoapify.com/v1/geocode/search?text=The%20Dolli%20at%20Acropolis&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: No≈´s Santorini, a member of Design Hotels ------------
+No≈´s Santorini, a member of Design Hotels (Santorini, GR, 84700)
+https://api.geoapify.com/v1/geocode/search?text=No%E2%89%88%C2%B4s%20Santorini%2C%20a%20member%20of%20Design%20Hotels&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Santo Pure Oia Suites &amp; Villas ------------
+Santo Pure Oia Suites &amp; Villas (Oia, Santorini, GR, 84702)
+https://api.geoapify.com/v1/geocode/search?text=Santo%20Pure%20Oia%20Suites%20%26amp%3B%20Villas&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Mykonos Blu Boutique Resort ------------
+Mykonos Blu Boutique Resort (Mykonos, GR, 84600)
+https://api.geoapify.com/v1/geocode/search?text=Mykonos%20Blu%20Boutique%20Resort&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Santa Marina, a Luxury Collection Resort, Mykonos ------------
+Santa Marina, a Luxury Collection Resort, Mykonos (Mykonos, GR, 84600)
+https://api.geoapify.com/v1/geocode/search?text=Santa%20Marina%2C%20a%20Luxury%20Collection%20Resort%2C%20Mykonos&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Bill &amp; Coo Mykonos ------------
+Bill &amp; Coo Mykonos (Mykonos, GR, 84600)
+https://api.geoapify.com/v1/geocode/search?text=Bill%20%26amp%3B%20Coo%20Mykonos&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Myconian Utopia Resort ------------
+Myconian Utopia Resort (Mykonos, GR, 84600)
+https://api.geoapify.com/v1/geocode/search?text=Myconian%20Utopia%20Resort&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Mykonos Grand Hotel &amp; Resort ------------
+Mykonos Grand Hotel &amp; Resort (Mykonos, GR, 84600)
+https://api.geoapify.com/v1/geocode/search?text=Mykonos%20Grand%20Hotel%20%26amp%3B%20Resort&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Lesante Blu Exclusive Beach Resort ------------
+Lesante Blu Exclusive Beach Resort (Zakynthos, GR,)
+https://api.geoapify.com/v1/geocode/search?text=Lesante%20Blu%20Exclusive%20Beach%20Resort&filter=countrycode:gr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Anantara The Marker Hotel Dublin Hotel ------------
+Anantara The Marker Hotel Dublin Hotel (Dublin, IE, D02 CK38)
+https://api.geoapify.com/v1/geocode/search?text=Anantara%20The%20Marker%20Hotel%20Dublin%20Hotel&filter=countrycode:ie&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Carton House a Fairmont Managed Hotel ------------
+Carton House a Fairmont Managed Hotel (Maynooth, IE, W23 TD 98)
+https://api.geoapify.com/v1/geocode/search?text=Carton%20House%20a%20Fairmont%20Managed%20Hotel&filter=countrycode:ie&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: J.K.Place Roma ------------
+J.K.Place Roma (Rome, IT, IT,)
+https://api.geoapify.com/v1/geocode/search?text=J.K.Place%20Roma&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Villa Agrippina a Gran Melia Hotel ------------
+Villa Agrippina a Gran Melia Hotel (Rome, IT, 00165)
+https://api.geoapify.com/v1/geocode/search?text=Villa%20Agrippina%20a%20Gran%20Melia%20Hotel&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Grand Hotel Victoria concept &amp; spa ------------
+Grand Hotel Victoria concept &amp; spa (Menaggio, Lombardy, IT, 22017)
+https://api.geoapify.com/v1/geocode/search?text=Grand%20Hotel%20Victoria%20concept%20%26amp%3B%20spa&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Passalacqua ------------
+Passalacqua (Moltrasio, IT, 22010)
+https://api.geoapify.com/v1/geocode/search?text=Passalacqua&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: PALAZZO CORDUSIO ‚Äì a Gran Melia Hotel Milan ------------
+PALAZZO CORDUSIO ‚Äì a Gran Melia Hotel Milan (Milan, IT, 2- 20123)
+https://api.geoapify.com/v1/geocode/search?text=PALAZZO%20CORDUSIO%20%E2%80%9A%C3%84%C3%AC%20a%20Gran%20Melia%20Hotel%20Milan&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Il Borro ------------
+Il Borro (Arezzo, IT, 52024)
+https://api.geoapify.com/v1/geocode/search?text=Il%20Borro&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Baglioni Masseria Muzza ------------
+Baglioni Masseria Muzza (Otranto, IT, 73028)
+https://api.geoapify.com/v1/geocode/search?text=Baglioni%20Masseria%20Muzza&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Relais Santa Croce By Baglioni Hotels ------------
+Relais Santa Croce By Baglioni Hotels (Florence, IT, 50122)
+https://api.geoapify.com/v1/geocode/search?text=Relais%20Santa%20Croce%20By%20Baglioni%20Hotels&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Viesca Toscana ------------
+Viesca Toscana (Reggello , IT, 50066)
+https://api.geoapify.com/v1/geocode/search?text=Viesca%20Toscana&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Castello di Casole, A Belmond Hotel, Tuscany ------------
+Castello di Casole, A Belmond Hotel, Tuscany (Siena, IT, 53031)
+https://api.geoapify.com/v1/geocode/search?text=Castello%20di%20Casole%2C%20A%20Belmond%20Hotel%2C%20Tuscany&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Grand Hotel Savoia by Radisson Collection ------------
+Grand Hotel Savoia by Radisson Collection (Cortina d'Ampezzo, IT, IT, 32043)
+https://api.geoapify.com/v1/geocode/search?text=Grand%20Hotel%20Savoia%20by%20Radisson%20Collection&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: San Domenico Palace, Taormina, A Four Seasons Hotel ------------
+San Domenico Palace, Taormina, A Four Seasons Hotel (Taormina, IT, 98039)
+https://api.geoapify.com/v1/geocode/search?text=San%20Domenico%20Palace%2C%20Taormina%2C%20A%20Four%20Seasons%20Hotel&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Villa Sant'Andrea ------------
+Villa Sant'Andrea (Taormina, IT, 98039)
+https://api.geoapify.com/v1/geocode/search?text=Villa%20Sant%27Andrea&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Splendido Mare, A Belmond Hotel, Portofino ------------
+Splendido Mare, A Belmond Hotel, Portofino (Portofino, IT, 16034)
+https://api.geoapify.com/v1/geocode/search?text=Splendido%20Mare%2C%20A%20Belmond%20Hotel%2C%20Portofino&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Splendido, A Belmond Hotel, Portofino ------------
+Splendido, A Belmond Hotel, Portofino (Portofino, IT, 16034)
+https://api.geoapify.com/v1/geocode/search?text=Splendido%2C%20A%20Belmond%20Hotel%2C%20Portofino&filter=countrycode:it&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: De L'Europe Amsterdam - Leading Hotels of the World ------------
+De L'Europe Amsterdam - Leading Hotels of the World (Amsterdam, NL, 1012 CP)
+https://api.geoapify.com/v1/geocode/search?text=De%20L%27Europe%20Amsterdam%20-%20Leading%20Hotels%20of%20the%20World&filter=countrycode:nl&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Sofitel Legend The Grand Amsterdam ------------
+Sofitel Legend The Grand Amsterdam (Amsterdam, NL, 1012 EX)
+https://api.geoapify.com/v1/geocode/search?text=Sofitel%20Legend%20The%20Grand%20Amsterdam&filter=countrycode:nl&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The One Palacio da Anunciada ------------
+The One Palacio da Anunciada (Lisboa, PT, 1150-268)
+https://api.geoapify.com/v1/geocode/search?text=The%20One%20Palacio%20da%20Anunciada&filter=countrycode:pt&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: BELA VISTA Hotel &amp; SPA ------------
+BELA VISTA Hotel &amp; SPA (Praia da Rocha, PT, 8500-802)
+https://api.geoapify.com/v1/geocode/search?text=BELA%20VISTA%20Hotel%20%26amp%3B%20SPA&filter=countrycode:pt&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Maria Cristina, a Luxury Collection Hotel, San Sebastian ------------
+Hotel Maria Cristina, a Luxury Collection Hotel, San Sebastian (San Sebastian, ES, 20004)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Maria%20Cristina%2C%20a%20Luxury%20Collection%20Hotel%2C%20San%20Sebastian&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Balmoral, a Rocco Forte hotel ------------
+The Balmoral, a Rocco Forte hotel (Edinburgh, GB, EH2 2EQ)
+https://api.geoapify.com/v1/geocode/search?text=The%20Balmoral%2C%20a%20Rocco%20Forte%20hotel&filter=countrycode:gb&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: 7Pines Resort Ibiza ‚Äì Part of Destination by Hyatt ------------
+7Pines Resort Ibiza ‚Äì Part of Destination by Hyatt (Ibiza, ES, 07830)
+https://api.geoapify.com/v1/geocode/search?text=7Pines%20Resort%20Ibiza%20%E2%80%9A%C3%84%C3%AC%20Part%20of%20Destination%20by%20Hyatt&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: W Barcelona ------------
+W Barcelona (Barcelona, ES, 08039)
+https://api.geoapify.com/v1/geocode/search?text=W%20Barcelona&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Fenix, a Gran Meli√° Hotel ------------
+Hotel Fenix, a Gran Meli√° Hotel (Madrid, ES, 28001)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Fenix%2C%20a%20Gran%20Meli%E2%88%9A%C2%B0%20Hotel&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: La Residencia, A Belmond Hotel, Mallorca ------------
+La Residencia, A Belmond Hotel, Mallorca (Deia, ES, 07179)
+https://api.geoapify.com/v1/geocode/search?text=La%20Residencia%2C%20A%20Belmond%20Hotel%2C%20Mallorca&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Hotel Marqu√©s de Riscal, a Luxury Collection Hotel, Elciego ------------
+Hotel Marqu√©s de Riscal, a Luxury Collection Hotel, Elciego (Elciego, ES, 01340)
+https://api.geoapify.com/v1/geocode/search?text=Hotel%20Marqu%E2%88%9A%C2%A9s%20de%20Riscal%2C%20a%20Luxury%20Collection%20Hotel%2C%20Elciego&filter=countrycode:es&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Hotel Istanbul at Sultanahmet ------------
+Four Seasons Hotel Istanbul at Sultanahmet (Istanbul, TR, 34122)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Hotel%20Istanbul%20at%20Sultanahmet&filter=countrycode:tr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Ariana Sustainable Luxury Lodge ------------
+Ariana Sustainable Luxury Lodge (Uchisar, TR, 50240)
+https://api.geoapify.com/v1/geocode/search?text=Ariana%20Sustainable%20Luxury%20Lodge&filter=countrycode:tr&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Mount Lofty House Boutique Estate - Iconic Adelaide Hills Luxury Escapes ------------
+Mount Lofty House Boutique Estate - Iconic Adelaide Hills Luxury Escapes (Crafers, SA, AU, 5152)
+https://api.geoapify.com/v1/geocode/search?text=Mount%20Lofty%20House%20Boutique%20Estate%20-%20Iconic%20Adelaide%20Hills%20Luxury%20Escapes&filter=countrycode:au&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: David InterContinental Tel Aviv Hotel ------------
+David InterContinental Tel Aviv Hotel (Tel Aviv-Yafo, IL, 61501)
+https://api.geoapify.com/v1/geocode/search?text=David%20InterContinental%20Tel%20Aviv%20Hotel&filter=countrycode:il&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Jaffa, a Luxury Collection Hotel, Tel Aviv ------------
+The Jaffa, a Luxury Collection Hotel, Tel Aviv (Tel Aviv-Jaffa, IL, 6803602)
+https://api.geoapify.com/v1/geocode/search?text=The%20Jaffa%2C%20a%20Luxury%20Collection%20Hotel%2C%20Tel%20Aviv&filter=countrycode:il&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Habitas Alula ------------
+Habitas Alula (Alula, SA, 43511)
+https://api.geoapify.com/v1/geocode/search?text=Habitas%20Alula&filter=countrycode:sa&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: One&amp;Only Royal Mirage ------------
+One&amp;Only Royal Mirage (Dubai, AE, 37252)
+https://api.geoapify.com/v1/geocode/search?text=One%26amp%3BOnly%20Royal%20Mirage&filter=countrycode:ae&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: One&amp;Only One Za‚Äôabeel Dubai ------------
+One&amp;Only One Za‚Äôabeel Dubai (Dubai, AE,)
+https://api.geoapify.com/v1/geocode/search?text=One%26amp%3BOnly%20One%20Za%E2%80%9A%C3%84%C3%B4abeel%20Dubai&filter=countrycode:ae&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Cape Grace, A Fairmont Managed Hotel ------------
+Cape Grace, A Fairmont Managed Hotel (Cape Town, ZA, 8001)
+https://api.geoapify.com/v1/geocode/search?text=Cape%20Grace%2C%20A%20Fairmont%20Managed%20Hotel&filter=countrycode:za&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Mount Nelson, A Belmond Hotel, Cape Town ------------
+Mount Nelson, A Belmond Hotel, Cape Town (Cape Town, ZA, 8001)
+https://api.geoapify.com/v1/geocode/search?text=Mount%20Nelson%2C%20A%20Belmond%20Hotel%2C%20Cape%20Town&filter=countrycode:za&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Hotel The Westcliff, Johannesburg ------------
+Four Seasons Hotel The Westcliff, Johannesburg (Johannesburg, ZA, 2132)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Hotel%20The%20Westcliff%2C%20Johannesburg&filter=countrycode:za&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: The Royal Livingstone Hotel Victoria Falls Zambia by Anantara ------------
+The Royal Livingstone Hotel Victoria Falls Zambia by Anantara (Livingstone, ZM,)
+https://api.geoapify.com/v1/geocode/search?text=The%20Royal%20Livingstone%20Hotel%20Victoria%20Falls%20Zambia%20by%20Anantara&filter=countrycode:zm&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Nanuku Resort, Fiji ------------
+Nanuku Resort, Fiji (Pacific Harbour, FJ, 0000)
+https://api.geoapify.com/v1/geocode/search?text=Nanuku%20Resort%2C%20Fiji&filter=countrycode:fj&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Six Senses Fiji ------------
+Six Senses Fiji (Malolo Island, FJ,)
+https://api.geoapify.com/v1/geocode/search?text=Six%20Senses%20Fiji&filter=countrycode:fj&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: InterContinental Bora Bora Resort &amp; Thalasso Spa ------------
+InterContinental Bora Bora Resort &amp; Thalasso Spa (Bora Bora, PF, 98730)
+https://api.geoapify.com/v1/geocode/search?text=InterContinental%20Bora%20Bora%20Resort%20%26amp%3B%20Thalasso%20Spa&filter=countrycode:pf&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Resort Bora Bora ------------
+Four Seasons Resort Bora Bora (Motu Tehotu, PF, 98730)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Resort%20Bora%20Bora&filter=countrycode:pf&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Resort Bali At Jimbaran Bay ------------
+Four Seasons Resort Bali At Jimbaran Bay (Bali, ID, 80361)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Resort%20Bali%20At%20Jimbaran%20Bay&filter=countrycode:id&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Resort Bali At Sayan ------------
+Four Seasons Resort Bali At Sayan (Bali, ID, 80571)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Resort%20Bali%20At%20Sayan&filter=countrycode:id&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Kimpton Naranta Bali ------------
+Kimpton Naranta Bali (Bali, ID, DPSKM)
+https://api.geoapify.com/v1/geocode/search?text=Kimpton%20Naranta%20Bali&filter=countrycode:id&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Hotel Tokyo At Marunouchi ------------
+Four Seasons Hotel Tokyo At Marunouchi (Tokyo, 13, JP, 100-6277)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Hotel%20Tokyo%20At%20Marunouchi&filter=countrycode:jp&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Four Seasons Hotel Tokyo at Otemachi ------------
+Four Seasons Hotel Tokyo at Otemachi (Tokyo, 13, JP, 100 0004)
+https://api.geoapify.com/v1/geocode/search?text=Four%20Seasons%20Hotel%20Tokyo%20at%20Otemachi&filter=countrycode:jp&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Cerulean Tower Tokyu Hotel ------------
+Cerulean Tower Tokyu Hotel (Tokyo, JP,)
+https://api.geoapify.com/v1/geocode/search?text=Cerulean%20Tower%20Tokyu%20Hotel&filter=countrycode:jp&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Andaz Tokyo Toranomon Hills ------------
+Andaz Tokyo Toranomon Hills (Minato-ku, Tokyo, JP, 105-0001)
+https://api.geoapify.com/v1/geocode/search?text=Andaz%20Tokyo%20Toranomon%20Hills&filter=countrycode:jp&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Amanemu ------------
+Amanemu (Shima-shi, JP, 517-0403)
+https://api.geoapify.com/v1/geocode/search?text=Amanemu&filter=countrycode:jp&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: COMO Cocoa Island ------------
+COMO Cocoa Island (South Male Atoll, NA, MV,)
+https://api.geoapify.com/v1/geocode/search?text=COMO%20Cocoa%20Island&filter=countrycode:mv&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: One&amp;Only Reethi Rah, Maldives ------------
+One&amp;Only Reethi Rah, Maldives (North Mal√© Atoll, N/A, MV, 8440)
+https://api.geoapify.com/v1/geocode/search?text=One%26amp%3BOnly%20Reethi%20Rah%2C%20Maldives&filter=countrycode:mv&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74
+---------Failed to find features. Hotel parsed name: Amanoi ------------
+Amanoi (Ninh Thuan, VN,)
+https://api.geoapify.com/v1/geocode/search?text=Amanoi&filter=countrycode:vn&type=amenity&apiKey=accb12582c1249f69072f6b1188cda74

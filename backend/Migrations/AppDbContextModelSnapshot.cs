@@ -38,6 +38,10 @@ namespace EditSearch.Backend.Migrations
                     b.Property<string>("FormattedAddress")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("FoundApiName")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<double?>("Latitude")
                         .HasColumnType("REAL");
 
@@ -45,10 +49,6 @@ namespace EditSearch.Backend.Migrations
                         .HasColumnType("REAL");
 
                     b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("ParsedName")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
