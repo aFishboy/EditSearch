@@ -20,7 +20,7 @@ namespace EditSearch.Backend.Migrations
 
             migrationBuilder.RenameTable(
                 name: "HotelPrice",
-                newName: "HotelPrices");
+                newName: "HotelPrice");
 
             migrationBuilder.RenameColumn(
                 name: "ZipCode",
@@ -29,8 +29,8 @@ namespace EditSearch.Backend.Migrations
 
             migrationBuilder.RenameIndex(
                 name: "IX_HotelPrice_HotelId",
-                table: "HotelPrices",
-                newName: "IX_HotelPrices_HotelId");
+                table: "HotelPrice",
+                newName: "IX_HotelPrice_HotelId");
 
             migrationBuilder.AddColumn<string>(
                 name: "Country",
@@ -69,13 +69,13 @@ namespace EditSearch.Backend.Migrations
                 nullable: true);
 
             migrationBuilder.AddPrimaryKey(
-                name: "PK_HotelPrices",
-                table: "HotelPrices",
+                name: "PK_HotelPrice",
+                table: "HotelPrice",
                 column: "Id");
 
             migrationBuilder.AddForeignKey(
-                name: "FK_HotelPrices_Hotels_HotelId",
-                table: "HotelPrices",
+                name: "FK_HotelPrice_Hotels_HotelId",
+                table: "HotelPrice",
                 column: "HotelId",
                 principalTable: "Hotels",
                 principalColumn: "Id",
@@ -86,12 +86,12 @@ namespace EditSearch.Backend.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropForeignKey(
-                name: "FK_HotelPrices_Hotels_HotelId",
-                table: "HotelPrices");
+                name: "FK_HotelPrice_Hotels_HotelId",
+                table: "HotelPrice");
 
             migrationBuilder.DropPrimaryKey(
-                name: "PK_HotelPrices",
-                table: "HotelPrices");
+                name: "PK_HotelPrice",
+                table: "HotelPrice");
 
             migrationBuilder.DropColumn(
                 name: "Country",
@@ -118,7 +118,7 @@ namespace EditSearch.Backend.Migrations
                 table: "Hotels");
 
             migrationBuilder.RenameTable(
-                name: "HotelPrices",
+                name: "HotelPrice",
                 newName: "HotelPrice");
 
             migrationBuilder.RenameColumn(
@@ -127,7 +127,7 @@ namespace EditSearch.Backend.Migrations
                 newName: "ZipCode");
 
             migrationBuilder.RenameIndex(
-                name: "IX_HotelPrices_HotelId",
+                name: "IX_HotelPrice_HotelId",
                 table: "HotelPrice",
                 newName: "IX_HotelPrice_HotelId");
 

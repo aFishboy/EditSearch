@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EditSearch.Backend.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250814062237_AddPlaceID")]
-    partial class AddPlaceID
+    [Migration("20250818045756_hotelpriceoverhaul")]
+    partial class hotelpriceoverhaul
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -41,6 +41,10 @@ namespace EditSearch.Backend.Migrations
                     b.Property<string>("FormattedAddress")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("FoundApiName")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<double?>("Latitude")
                         .HasColumnType("REAL");
 
@@ -48,10 +52,6 @@ namespace EditSearch.Backend.Migrations
                         .HasColumnType("REAL");
 
                     b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("ParsedName")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
@@ -76,16 +76,45 @@ namespace EditSearch.Backend.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<int>("ConfidenceScore")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Currency")
+                        .IsRequired()
+                        .HasMaxLength(3)
+                        .HasColumnType("TEXT");
+
                     b.Property<int>("HotelId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<bool>("IsEstimated")
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("LastUpdated")
                         .HasColumnType("TEXT");
 
+                    b.Property<int>("Level")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("Month")
+                        .HasColumnType("INTEGER");
+
                     b.Property<decimal>("Price")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("PriceDate")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("RoomType")
+                        .HasMaxLength(100)
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("Season")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Source")
+                        .IsRequired()
+                        .HasMaxLength(50)
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");

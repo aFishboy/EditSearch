@@ -18,7 +18,7 @@ def setup_database(db_file):
         longitude REAL
     )
     ''')
-    # Create HotelPrices Table
+    # Create HotelPrice Table
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS hotel_prices (
         id INTEGER PRIMARY KEY AUTOINCREMENT,

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xVUDafpnEoo=",
+  "dgSpecHash": "pb8xlPOTsWc=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj",
+  "projectFilePath": "C:\\Users\\Sam\\Coding\\EditSearch\\scripts\\HotelDataImporter\\HotelDataImporter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sam\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",

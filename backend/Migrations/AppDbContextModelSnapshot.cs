@@ -73,11 +73,28 @@ namespace EditSearch.Backend.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<int>("ConfidenceScore")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Currency")
+                        .IsRequired()
+                        .HasMaxLength(3)
+                        .HasColumnType("TEXT");
+
                     b.Property<int>("HotelId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<bool>("IsEstimated")
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("LastUpdated")
                         .HasColumnType("TEXT");
+
+                    b.Property<int>("Level")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("Month")
+                        .HasColumnType("INTEGER");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("TEXT");
@@ -85,11 +102,23 @@ namespace EditSearch.Backend.Migrations
                     b.Property<DateTime>("PriceDate")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("RoomType")
+                        .HasMaxLength(100)
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("Season")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Source")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("TEXT");
+
                     b.HasKey("Id");
 
                     b.HasIndex("HotelId");
 
-                    b.ToTable("HotelPrices");
+                    b.ToTable("HotelPrice");
                 });
 
             modelBuilder.Entity("EditSearch.Backend.Entities.HotelPrice", b =>

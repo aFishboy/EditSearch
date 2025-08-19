@@ -92,7 +92,7 @@ namespace EditSearch.Backend.Migrations
 
                     b.HasIndex("HotelId");
 
-                    b.ToTable("HotelPrices");
+                    b.ToTable("HotelPrice");
                 });
 
             modelBuilder.Entity("EditSearch.Backend.Entities.HotelPrice", b =>
